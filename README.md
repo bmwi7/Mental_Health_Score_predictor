@@ -12,6 +12,6 @@
 
 ---
 ## Output
-
+![image Alt](https://github.com/bmwi7/Mental_Health_Score_predictor/blob/c930ce25e84e443a02ec22ce5439eda7695a3243/Screenshot%202026-09-09%20093306.png)
 
 ---
